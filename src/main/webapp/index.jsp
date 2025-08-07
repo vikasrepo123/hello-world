@@ -18,7 +18,7 @@
         }
 
         .container {
-            background-color: rgba(100, 0, 0, 0.2);
+            background-color: rgba(200, 0, 0, 0.5);
             padding: 40px;
             border-radius: 10px;
             text-align: center;
