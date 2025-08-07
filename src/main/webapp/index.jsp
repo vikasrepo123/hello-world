@@ -18,7 +18,7 @@
         }
 
         .container {
-            background-color: rgba(0, 0, 0, 0.2);
+            background-color: rgba(100, 0, 0, 0.2);
             padding: 40px;
             border-radius: 10px;
             text-align: center;
@@ -43,8 +43,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🚀 Welcome to Hello World App</h1>
-        <p>Deployed with Jenkins + Docker + Tomcat</p>
+        <h1> Welcome to Hello World App</h1>
         <div class="footer">Created by Vikas Upadhyay</div>
     </div>
 </body>
